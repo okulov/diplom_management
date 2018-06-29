@@ -1,5 +1,6 @@
 <template>
   <h1>Hello world</h1>
+  {{count}}
 </template>
 
 <script>
@@ -7,5 +8,6 @@
     data () {
 
     }
+
   }
 </script>
